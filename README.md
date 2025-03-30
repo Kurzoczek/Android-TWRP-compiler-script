@@ -1,9 +1,8 @@
-# Android-TWRP-compiler-script
 This script automates the process of building TWRP (Team Win Recovery Project) for a specific Android device. It checks and installs necessary tools, updates the repo tool, and builds TWRP for the specified Android version and device tree.
 
-TWRP Builder Script
-Overview
-This script automates the process of building TWRP (Team Win Recovery Project) for a specific Android device. It checks and installs necessary tools, updates the repo tool, and builds TWRP for the specified Android version and device tree.
+
+IMPORTANT: YOU NEED LINUX-BASED OPERATING SYSTEM, TO RUN THIS SCRIPT!!!
+
 
 Features
 Tool Installation: Checks for and installs required tools and packages.
