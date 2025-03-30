@@ -41,3 +41,7 @@ Enter the device tree URL (e.g., https://github.com/username/device_samsung_x216
 Enter the device name (e.g., x216b): x216b
 Output
 The script outputs the recovery image to the out directory within the device-specific directory. It also provides messages indicating the progress and completion of the build process.
+
+
+If you appreciate my work, you can "buy me a coffee" via PayPal link https://paypal.me/Kirzoczek?country.x=PL&locale.x=pl_PL
+
