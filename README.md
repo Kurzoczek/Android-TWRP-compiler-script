@@ -14,10 +14,10 @@ Clone the Repository:
 
 git clone <repository-url>
 cd <repository-directory>
-Run the Script:
+Run the Script: ./twrp-builder.sh
 
-./twrp-builder.sh
-Script Details
+
+Script Details:
 Function: check_and_install_tools
 This function checks for the presence of necessary tools and installs them if they are not already installed. It uses apt-get to install the tools and handles compatibility issues for specific packages.
 
